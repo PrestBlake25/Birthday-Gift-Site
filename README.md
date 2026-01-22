@@ -1,6 +1,7 @@
 # Micheal  Jackson's Birthday Gift Site
 
-A responsive single-page website for selecting and sharing birthday gift ideas, built with modern HTML5 and CSS3
+A responsive single-page website for selecting and sharing birthday gift ideas, built with modern HTML5 and CSS3, to show appreciation
+to Micheal Jackson and his influence as the King of Pop
 
 ## Features
 - Interactive gift suggestion cards
