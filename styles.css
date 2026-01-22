@@ -1,13 +1,7 @@
-/*
-Challenge:
-Change the site's background into a gradient that goes
-from blue at the top to pink at the bottom.
-*/
-
 body {
     text-align: center;
     font-family: 'Happy Monkey', cursive;
-    background: linear-gradient(lightskyblue, pink);
+    background: linear-gradient(black, red);
     color: #ffffff;
 }
 
@@ -54,10 +48,6 @@ h1, h2, h3, h4, p {
     margin-top: 0;
 }
 
-#gift-img-cheers {
-    height: 200px;
-}
-
 .gift-img {
     margin: 20px auto;
     max-width: 400px;
@@ -69,23 +59,23 @@ h1, h2, h3, h4, p {
 }
 
 #gift-img-happy:hover {
-    background-image: url("images/happy.gif");
+    background-image: url("images/monk.gif");
 }
 
-#gift-img-hot:hover {
-    background-image: url("images/hot.gif");
+#dance-img:hover {
+    background-image: url("images/mw.gif");
 }
 
-#gift-img-genius:hover {
-    background-image: url("images/genius.gif");
+#king-img:hover {
+    background-image: url("images/king.gif");
 }
 
-#gift-img-badass:hover {
-    background-image: url("images/badass.gif");
+#bruno-img:hover {
+    background-image: url("images/bruno.gif");
 }
 
-#gift-img-cheers:hover {
-    background-image: url("images/cheers.gif");
+#sad-img:hover {
+    background-image: url("images/sadfire.gif");
 }
 
 #footer {
